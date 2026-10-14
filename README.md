@@ -1,6 +1,6 @@
 # 🔮 Enchantment Preview (附魔透视)
 
-> **补药开盲盒，掀翻 1.7.10 附魔台的万恶黑幕！**  
+> **补药开盲盒，这个对你的1.7.10生存绝对有很大帮助！**  
 > (╯°□°）╯︵ ┻━┻ ➡️ ┬─┬ ノ( ' - 'ノ)
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.7.10-green.svg)
